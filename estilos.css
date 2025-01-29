@@ -12,20 +12,20 @@
     width: 15%;
     background-color: aqua;
     height: 300px;
-    margin-top: 2%;
+    margin-top: 10px;
     margin-right: 2%;
 }
 #body #content{
     background-color: aliceblue;
     height: 800px;
     width: 56%;
-    margin: 2%;
+    margin: 10px;
 }
 #body #news{
     width: 25%;
     background-color: cyan;
     height: 400px;
-    margin-top: 2%;
+    margin-top: 10px;
     margin-left: 2%;
 }
 
