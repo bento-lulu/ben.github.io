@@ -12,7 +12,7 @@
     width: 15%;
     background-color: aqua;
     height: 300px;
-    margin: 2%;
+    margin-right: 2%;
 }
 #body #content{
     background-color: aliceblue;
@@ -24,7 +24,7 @@
     width: 25%;
     background-color: cyan;
     height: 400px;
-    margin: 2%;
+    margin-left: 2%;
 }
 
 #footer{
