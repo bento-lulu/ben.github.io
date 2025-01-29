@@ -1,0 +1,25 @@
+#header{
+    height: 80px;
+    background-color: blue;
+}
+
+#body{
+    display: flex;
+    background-color: beige;
+}
+#body #menu{
+    width: 200px;
+    background-color: aqua;
+}
+#body #content{
+    background-color: aliceblue;
+}
+#body #news{
+    width: 200px;
+    background-color: cyan;    
+}
+
+#footer{
+    height: 100px;
+    background-color: red;
+}
