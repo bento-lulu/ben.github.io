@@ -9,18 +9,22 @@
     background-color: beige;
 }
 #body #menu{
-    width: 200px;
+    width: 15%;
     background-color: aqua;
     height: 300px;
+    margin: 2%;
 }
 #body #content{
     background-color: aliceblue;
     height: 800px;
+    width: 56%;
+    margin: 2%;
 }
 #body #news{
     width: 200px;
     background-color: cyan;
-    height: 500px;
+    height: 25%;
+    margin: 2%;
 }
 
 #footer{
